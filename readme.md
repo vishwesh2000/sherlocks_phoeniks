@@ -38,5 +38,6 @@
 
 
 **Generate Knowledge Graph**
+----------------------------
 
 ![e8478d4d-0c12-4e33-896b-59384bb98ed0](https://user-images.githubusercontent.com/127108567/224808276-0b1546f5-2e9b-47ef-b861-616a4587194b.jpg)
