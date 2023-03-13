@@ -1,14 +1,11 @@
 
 ## Sherlock's Phoeniks
 
-![d2329cd2-2500-4661-8dd2-c4e8457a41de](https://user-images.githubusercontent.com/127108567/224809192-9eb31591-b49d-466c-bf12-f6cc6e984348.jpg)   
-
-
 **Our Sherlock's Phoeniks Search Squad  solution  is a facial recognition system that utilizes generative AI models like ChatGPT and stable diffusion, as well as computer vision techniques, to identify and locate missing persons in real time . The system will take input in the form of text describing the appearance of the missing person, as well as raw images such as sketches, CCTV footage, or blurry photos. This algorithm will then generate a  knowledge graph and search through internal databases and internet/social media platforms like Facebook and Twitter to find matches and potentially identify the missing person. This system has the potential to significantly aid Police and Investigating agencies in their efforts to locate and bring missing persons home.**
 
+![d2329cd2-2500-4661-8dd2-c4e8457a41de](https://user-images.githubusercontent.com/127108567/224809192-9eb31591-b49d-466c-bf12-f6cc6e984348.jpg)   
 
-           
-
+        
 
 **Generate Prompt** 
 
@@ -38,6 +35,5 @@
 
 
 **Generate Knowledge Graph**
-----------------------------
 
 ![e8478d4d-0c12-4e33-896b-59384bb98ed0](https://user-images.githubusercontent.com/127108567/224808276-0b1546f5-2e9b-47ef-b861-616a4587194b.jpg)
