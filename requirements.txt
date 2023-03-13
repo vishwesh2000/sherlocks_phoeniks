@@ -1,0 +1,15 @@
+gradio
+face_recognition
+google-search-results
+diffusers 
+transformers 
+accelerate 
+scipy 
+safetensors
+openai
+stability-sdk
+torch
+openai
+opencv-python
+networkx
+matplotlib
