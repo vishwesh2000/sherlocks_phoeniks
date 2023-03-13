@@ -1,5 +1,5 @@
 
-**__Sherlock's Phoeniks__**
+## Sherlock's Phoeniks
 
 ![d2329cd2-2500-4661-8dd2-c4e8457a41de](https://user-images.githubusercontent.com/127108567/224809192-9eb31591-b49d-466c-bf12-f6cc6e984348.jpg)   
 
